@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-11-16T23:39:26Z",
+        "CreationDate": "2022-11-17T00:18:06Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.67,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "ESP32_Schematic"
+            "ProjectId": "GATEWAY_Schematic"
         },
         "Owner": "Gerald Lavergne <Gerald.lavergne@sansano.usm.cl>",
         "Size": {
